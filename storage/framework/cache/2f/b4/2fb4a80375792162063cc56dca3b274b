@@ -1,0 +1,80 @@
+1481554061a:1:{s:10:"footer.htm";a:6:{s:8:"fileName";s:10:"footer.htm";s:7:"content";s:1313:"==
+<!-- Footer section -->
+<section class="footer-section footer-section-4">
+	<div class="container">
+		<div class="row eqh fs-equalize-element">
+			<div class="col-md-3 logo-wrp" style="height: 152px;">
+				<img src="storage/app/media/logotip.jpg" alt="Company logo" class="">
+			</div><!-- /Logo and address -->
+
+			<div class="col-md-3 l" style="height: 152px;">
+				<h6 class="">Postal Address</h6>
+				<p class="">
+					PO Box 16122<br>
+					Collins Street West<br>
+					Victoria 8007<br>
+					Australia
+				</p>
+			</div><!-- /Logo and address -->
+
+			<div class="col-md-3 c" style="height: 152px;">
+				<h6 class="">Quick links</h6>
+				<a href="#" class="">About us</a>
+				<a href="#" class="">Help</a>
+				<a href="#" class="">Contact us</a>
+				<a href="#" class="">Term &amp; conditions</a>
+				<a href="#" class="">Privacy policy</a>
+			</div><!-- Quick links -->
+
+			<div class="col-md-3 r" style="height: 152px;">
+				<h6 class="">Connect with us</h6>
+				<a href="#" class="">Facebook</a>
+				<a href="#" class="">Twitter</a>
+				<a href="#" class="">Google+</a>
+				<a href="#" class="">Youtube</a>
+			</div><!-- Social  -->
+
+		</div>
+		<hr class="">
+		<p class="copyright">R.Gen - Landing page bundle © 2015</p>
+	</div>
+</section><!-- ./Footer section -->";s:5:"mtime";i:1481551812;s:6:"markup";s:1310:"<!-- Footer section -->
+<section class="footer-section footer-section-4">
+	<div class="container">
+		<div class="row eqh fs-equalize-element">
+			<div class="col-md-3 logo-wrp" style="height: 152px;">
+				<img src="storage/app/media/logotip.jpg" alt="Company logo" class="">
+			</div><!-- /Logo and address -->
+
+			<div class="col-md-3 l" style="height: 152px;">
+				<h6 class="">Postal Address</h6>
+				<p class="">
+					PO Box 16122<br>
+					Collins Street West<br>
+					Victoria 8007<br>
+					Australia
+				</p>
+			</div><!-- /Logo and address -->
+
+			<div class="col-md-3 c" style="height: 152px;">
+				<h6 class="">Quick links</h6>
+				<a href="#" class="">About us</a>
+				<a href="#" class="">Help</a>
+				<a href="#" class="">Contact us</a>
+				<a href="#" class="">Term &amp; conditions</a>
+				<a href="#" class="">Privacy policy</a>
+			</div><!-- Quick links -->
+
+			<div class="col-md-3 r" style="height: 152px;">
+				<h6 class="">Connect with us</h6>
+				<a href="#" class="">Facebook</a>
+				<a href="#" class="">Twitter</a>
+				<a href="#" class="">Google+</a>
+				<a href="#" class="">Youtube</a>
+			</div><!-- Social  -->
+
+		</div>
+		<hr class="">
+		<p class="copyright">R.Gen - Landing page bundle © 2015</p>
+	</div>
+</section><!-- ./Footer section -->";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

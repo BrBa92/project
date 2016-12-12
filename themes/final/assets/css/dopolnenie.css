@@ -1,0 +1,62 @@
+/* download
+********************************************/
+#downlaod {
+    background-color: #009ddc;
+}
+
+/* dark-section-2
+********************************************/
+.dark.content-section-2, .dark.content-section-1 {
+    background-color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+.dark.content-section .hd-2 {
+    color: #009ddc;
+}
+.dark.content-section-2 .text {
+    color: #444;
+}
+div.separator.long {
+    background-color: #E5328E;
+    height: 2px;
+    position: relative;
+    width: 200px;
+    display: block;
+    margin: 21px auto 19px auto;
+}
+.content-section .btn.btn-line.light {
+    border: 2px solid #E5328E;
+    color: #e4338e;
+}
+.content-section .btn.btn-line.light:hover {
+    background-color: #E5328E;
+    color: #fff;
+}
+
+/* dark-section-2
+********************************************/
+.dark.content-section-1 {
+    background-color: #f4f4f4;
+}
+.dark.content-section-1 .text {
+    color: #6a4f5a;
+}
+
+/* content-section-2
+********************************************/
+#section-3 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 20px;
+    text-align: center;
+    color: #444;
+}
+#section-3 p, #section-3 ul{
+    text-align: left;
+}
+
+
+
